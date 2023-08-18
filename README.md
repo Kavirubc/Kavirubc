@@ -1,11 +1,11 @@
-<h1 align="center">Hello folks! I'm Kaviru Hapuarachchi</h1>
-<h3 align="center">A passionate developer from Sri Lanka</h3>
+<h1 align="center">Kaviru Hapuarachchi</h1>
+<h3 align="center">Undergraduate at University of Colombo School of Computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavirubc&label=Profile%20views&color=0e75b6&style=flat" alt="kavirubc" /> </p>
 
-- 🔭 I’m currently working on *kode*
+- 🔭 Currently working on kode-Cosmo
 
-- 🌱 I’m currently learning *React*
+- 🌱 Passionately studying to become a future SE/PM, merging technology prowess with strategic leadership.
 
 - 📫 How to reach me *hapuarachchikaviru@gmail.com*
 
