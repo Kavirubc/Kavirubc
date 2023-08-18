@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavirubc&label=Profile%20views&color=0e75b6&style=flat" alt="kavirubc" /> </p>
 
-- 🔭 I’m currently working on *ApeBodima*
+- 🔭 I’m currently working on *kode*
 
-- 🌱 I’m currently learning *Laravel*
+- 🌱 I’m currently learning *React*
 
 - 📫 How to reach me *hapuarachchikaviru@gmail.com*
 
