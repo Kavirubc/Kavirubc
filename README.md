@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavirubc&label=Profile%20views&color=0e75b6&style=flat" alt="kavirubc" /> </p>
 
-- 🔭 Currently working on kode-DialogIC
+- 🔭 Currently working on kode and MediQ
 
 - 🌱 Passionately studying to become a future SE/PM, merging technology prowess with strategic leadership.
 
-- 📫 How to reach me *kaviru@ko-de.org*
+- 📫 How to reach me *hapuarachchikaviru@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
