@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavirubc&label=Profile%20views&color=0e75b6&style=flat" alt="kavirubc" /> </p>
 
-- 🔭 Currently working on kode and MediQ
+- 🔭 Currently learning ML and PM related concepts and applications.
 
 - 🌱 Passionately studying to become a future SE/PM, merging technology prowess with strategic leadership.
 
