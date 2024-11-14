@@ -7,7 +7,7 @@
 
 - 🌱 Passionately studying to become a future SE/PM, merging technology prowess with strategic leadership.
 
-- 📫 How to reach me *hapuarachchikaviru@gmail.com*
+- 📫 How to reach me *hello@kaviru.cc*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
